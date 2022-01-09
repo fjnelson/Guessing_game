@@ -1,4 +1,4 @@
-
+#johnne
 secret_word = "dog"
 guess = ""
 guess_count = 0
